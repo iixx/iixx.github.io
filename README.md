@@ -1,4 +1,3 @@
-iixx.github.io
-==============
+###My Blog
 
-Song's blog
+My blog website is [http://iixx.github.io](http://iixx.github.io)
