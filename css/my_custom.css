@@ -6,7 +6,7 @@ h1,h2,h3,h4,h5,h6,p,blockquote {
 body {
 	margin: 10px 13px 10px 13px;
 	background-color: #f5f5d5;
-	font-family: Georgia, serif;
+	font-family: "微软雅黑","Arial","Helvetica","sans-serif";
 	font-size: 62.5%;
 	word-spacing: 0.2em;
 	line-height: 1.8em;
@@ -74,7 +74,7 @@ blockquote {
 }
 
 blockquote:before {
-	content: "C";
+	content: "ﾂ，";
 	font-size: 40px;
 	margin-left: -10px;
 	font-family: georgia, serif;
