@@ -1,1 +1,3 @@
-console.log('This would be the main JS file.');
+if(console){
+	console.log('This would be the main JS file.');
+}
